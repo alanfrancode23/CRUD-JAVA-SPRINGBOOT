@@ -3,6 +3,7 @@ Hola, este es un CRUD para
 usuarios con la interfaz JpaRepository
 
 
+Versiones utilizadas en el proyecto
 MySQL 8.3 ,
 Java 17 , 
 Springboot 3.2.3
